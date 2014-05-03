@@ -1,5 +1,6 @@
 import os
 from flask import Flask
+import couchdb
 
 app = Flask(__name__)
 
